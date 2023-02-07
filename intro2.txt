@@ -1,0 +1,39 @@
+class intro 2
+
+hexacodes---> hex code for red
+#FFFFFF
+rgb(12,0,43)
+
+text-align:
+word-spacing:20px;
+letter-spacing:3px;  //1.125rem;
+line-height:10px;
+text-transform:uppercase--->transformation;
+text-transform:lowercase
+text-transform:capitalize
+font-size:12px;
+font-family:'sans-serif'
+font-style:italic; //normal
+
+border
+border-style:solid;//dashed//double//doted
+border-size:---->not work
+border-width:5px;
+border-color:red;
+border-top-color:blue; //bottom//left
+border-radius:3px;
+
+
+size
+width:500px;
+height:700px;
+
+margin
+margin-top:15px;
+
+padding--->space btw text&border
+paddding:5px;
+padding-top:5px;
+
+Reserch:
+camel case
